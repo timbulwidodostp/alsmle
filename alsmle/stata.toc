@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p alsmle Beach-Mackinnon AR(1) Autoregressive Maximum Likelihood Estimation Use alsmle With STATA 19
