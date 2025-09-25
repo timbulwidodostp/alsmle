@@ -1,6 +1,8 @@
 # alsmle
 Beach-Mackinnon AR(1) Autoregressive Maximum Likelihood Estimation Use alsmle With STATA 19
 
+https://www.youtube.com/watch?v=Y7VCI9gYZCM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
